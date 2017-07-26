@@ -4,21 +4,41 @@
   <subtitle>xu chao</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2017-07-23T14:55:08.010Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://xuchao527.com/"/>
+  <updated>2017-07-26T10:13:06.373Z</updated>
+  <id>http://xuchao527.com/</id>
   
   <author>
     <name>xu chao</name>
-    
+    <email>xuchao1163@nwsuaf.edu.cn</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>I LOVE THE WORLD</title>
+    <link href="http://xuchao527.com/2017/07/26/I-love-the-world-1/"/>
+    <id>http://xuchao527.com/2017/07/26/I-love-the-world-1/</id>
+    <published>2017-07-26T10:11:23.000Z</published>
+    <updated>2017-07-26T10:13:06.373Z</updated>
+    
+    <content type="html"><![CDATA[<p>在这个年纪，努力追求自己想过的生活，你需要更加努力<br>自我驱动 一路前行</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在这个年纪，努力追求自己想过的生活，你需要更加努力&lt;br&gt;自我驱动 一路前行&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>drive yourself</title>
-    <link href="http://yoursite.com/2017/07/23/drive-yourself/"/>
-    <id>http://yoursite.com/2017/07/23/drive-yourself/</id>
+    <link href="http://xuchao527.com/2017/07/23/drive-yourself/"/>
+    <id>http://xuchao527.com/2017/07/23/drive-yourself/</id>
     <published>2017-07-23T14:54:27.000Z</published>
     <updated>2017-07-23T14:55:08.010Z</updated>
     
@@ -37,8 +57,8 @@
   
   <entry>
     <title>I love the world</title>
-    <link href="http://yoursite.com/2017/07/23/I-love-the-world/"/>
-    <id>http://yoursite.com/2017/07/23/I-love-the-world/</id>
+    <link href="http://xuchao527.com/2017/07/23/I-love-the-world/"/>
+    <id>http://xuchao527.com/2017/07/23/I-love-the-world/</id>
     <published>2017-07-23T14:27:23.000Z</published>
     <updated>2017-07-23T14:29:09.108Z</updated>
     
@@ -53,14 +73,14 @@
     </summary>
     
     
-      <category term="生活  love  自我驱动" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB-love-%E8%87%AA%E6%88%91%E9%A9%B1%E5%8A%A8/"/>
+      <category term="生活  love  自我驱动" scheme="http://xuchao527.com/tags/%E7%94%9F%E6%B4%BB-love-%E8%87%AA%E6%88%91%E9%A9%B1%E5%8A%A8/"/>
     
   </entry>
   
   <entry>
     <title>article title</title>
-    <link href="http://yoursite.com/2017/07/23/article-title/"/>
-    <id>http://yoursite.com/2017/07/23/article-title/</id>
+    <link href="http://xuchao527.com/2017/07/23/article-title/"/>
+    <id>http://xuchao527.com/2017/07/23/article-title/</id>
     <published>2017-07-23T09:14:28.000Z</published>
     <updated>2017-07-23T09:14:28.492Z</updated>
     
@@ -73,8 +93,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/07/23/hello-world/"/>
-    <id>http://yoursite.com/2017/07/23/hello-world/</id>
+    <link href="http://xuchao527.com/2017/07/23/hello-world/"/>
+    <id>http://xuchao527.com/2017/07/23/hello-world/</id>
     <published>2017-07-23T03:34:03.145Z</published>
     <updated>2017-07-23T03:34:03.145Z</updated>
     
