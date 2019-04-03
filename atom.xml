@@ -190,9 +190,9 @@ The key fingerprint is:
       <category term="日志" scheme="http://xuchao527.com/categories/%E6%97%A5%E5%BF%97/"/>
     
     
-      <category term="开始" scheme="http://xuchao527.com/tags/%E5%BC%80%E5%A7%8B/"/>
-    
       <category term="我" scheme="http://xuchao527.com/tags/%E6%88%91/"/>
+    
+      <category term="开始" scheme="http://xuchao527.com/tags/%E5%BC%80%E5%A7%8B/"/>
     
       <category term="日记" scheme="http://xuchao527.com/tags/%E6%97%A5%E8%AE%B0/"/>
     
@@ -203,10 +203,9 @@ The key fingerprint is:
     <link href="http://xuchao527.com/2017/07/23/hello-world/"/>
     <id>http://xuchao527.com/2017/07/23/hello-world/</id>
     <published>2017-07-23T03:34:03.146Z</published>
-    <updated>2019-04-03T10:06:30.236Z</updated>
+    <updated>2019-04-03T10:16:41.715Z</updated>
     
-    <content type="html"><![CDATA[<hr>
-<p>title: Hello World</p>
+    <content type="html"><![CDATA[<p>title: Hello World</p>
 <h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
@@ -214,9 +213,8 @@ The key fingerprint is:
     
     <summary type="html">
     
-      &lt;hr&gt;
-&lt;p&gt;title: Hello World&lt;/p&gt;
-&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Crea
+      &lt;p&gt;title: Hello World&lt;/p&gt;
+&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a 
     
     </summary>
     
