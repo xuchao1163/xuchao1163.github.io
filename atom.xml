@@ -200,10 +200,10 @@ The key fingerprint is:
   
   <entry>
     <title></title>
-    <link href="http://xuchao527.com/2017/07/23/hello-world/"/>
-    <id>http://xuchao527.com/2017/07/23/hello-world/</id>
+    <link href="http://xuchao527.com/2017/07/23/Hello-World/"/>
+    <id>http://xuchao527.com/2017/07/23/Hello-World/</id>
     <published>2017-07-23T03:34:03.146Z</published>
-    <updated>2019-04-03T10:16:41.715Z</updated>
+    <updated>2019-04-03T10:19:10.642Z</updated>
     
     <content type="html"><![CDATA[<p>title: Hello World</p>
 <h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
