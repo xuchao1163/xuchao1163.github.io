@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xuchao527.com/"/>
-  <updated>2019-04-02T13:53:21.937Z</updated>
+  <updated>2019-04-03T01:37:37.710Z</updated>
   <id>http://xuchao527.com/</id>
   
   <author>
@@ -14,6 +14,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>article title</title>
+    <link href="http://xuchao527.com/2019/04/03/article-title/"/>
+    <id>http://xuchao527.com/2019/04/03/article-title/</id>
+    <published>2019-04-03T01:37:37.000Z</published>
+    <updated>2019-04-03T01:37:37.710Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>新的生活记录</title>
