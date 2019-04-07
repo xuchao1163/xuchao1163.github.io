@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xuchao527.com/"/>
-  <updated>2019-04-03T10:13:22.824Z</updated>
+  <updated>2019-04-07T02:23:23.474Z</updated>
   <id>http://xuchao527.com/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>清明节在西安的集中加班</title>
+    <link href="http://xuchao527.com/2019/04/07/articel-name/"/>
+    <id>http://xuchao527.com/2019/04/07/articel-name/</id>
+    <published>2019-04-07T02:22:03.217Z</published>
+    <updated>2019-04-07T02:23:23.474Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>记2019年清明节（4月5-7日）在西安进行集中加班。</p>
+</blockquote>
+<p>2019年下学年，博士二年级。4月4日下午接到通知，清明节要求所有人集中到西安加班，完成专著撰写善后工作。晴天霹雳，清明节外出出行计划全部打乱，Boss亲自操刀。晚上跟师弟连夜赶到西安，气喘吁吁。专著撰写持续大半年，本可以“短”“平”“快”完成，可是墨迹，就像挤牙膏，很多个人事情被搁置。<br>在西理工宾馆住了3天，5-6两天每个人修改自己负责的章节部分，晚上大家一起商议汇总。修改汇总后仍旧没有解决所有的问题，并且又承接到新的章节内容，顿时语塞。汇总过程中大家并没有使用统一的模板，每一章节的修改都采用全本300多页的电子文档，每次打开电脑总是卡顿。总体来说，这两天工作任务的最初定位是完成专著的校稿，但是从最终汇总的过程看出每一章节我们都是在修改逻辑部分，具体文字内容部分只过了一章内容。历时大半年的工作最终还是停留在逻辑框架修改部分，希望文字内容校核部分也就此通过了。<br>回想专著编写这整件事，让我对协同工作，提高工作效率有了很多想法。最开始框架编写不统一，每个人完成进度不一致，完成事情没有时间节点。就像在炒冷饭，需要反复多个来回，最后还是夹生饭。没有时间节点概念，每次完成总是在等完成效率最慢的，导致每次都有很多全部推到重来的内容需要完成。<br>4月7日，回。</p>
+<p>2019/4/7 星期日 上午 10:10:33</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;记2019年清明节（4月5-7日）在西安进行集中加班。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2019年下学年，博士二年级。4月4日下午接到通知，清明节要求所有人集中到西安加班，完成专著撰写善后工作。晴天霹雳，清明节外出出行计划全部打乱，Bos
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>博客的搭建</title>
@@ -190,9 +216,9 @@ The key fingerprint is:
       <category term="日志" scheme="http://xuchao527.com/categories/%E6%97%A5%E5%BF%97/"/>
     
     
-      <category term="我" scheme="http://xuchao527.com/tags/%E6%88%91/"/>
-    
       <category term="开始" scheme="http://xuchao527.com/tags/%E5%BC%80%E5%A7%8B/"/>
+    
+      <category term="我" scheme="http://xuchao527.com/tags/%E6%88%91/"/>
     
       <category term="日记" scheme="http://xuchao527.com/tags/%E6%97%A5%E8%AE%B0/"/>
     
