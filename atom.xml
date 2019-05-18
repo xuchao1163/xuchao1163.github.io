@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xuchao527.com/"/>
-  <updated>2019-05-15T05:46:30.579Z</updated>
+  <updated>2019-05-18T05:39:18.165Z</updated>
   <id>http://xuchao527.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Storm surge barriers</title>
+    <link href="http://xuchao527.com/2019/05/17/sector-gate/"/>
+    <id>http://xuchao527.com/2019/05/17/sector-gate/</id>
+    <published>2019-05-17T15:52:41.000Z</published>
+    <updated>2019-05-18T05:39:18.165Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2019/05/17/sector-gate/Sector_gate.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2019/05/17/sector-gate/Sector_gate.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="Research" scheme="http://xuchao527.com/tags/Research/"/>
+    
+  </entry>
   
   <entry>
     <title>NVND2019 全国非线性振动暨非线性动力学和运动稳定性学术会议</title>
