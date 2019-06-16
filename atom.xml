@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xuchao527.com/"/>
-  <updated>2019-05-28T04:22:37.216Z</updated>
+  <updated>2019-06-16T07:26:06.416Z</updated>
   <id>http://xuchao527.com/</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Chaos</title>
+    <link href="http://xuchao527.com/2019/06/16/chaos/"/>
+    <id>http://xuchao527.com/2019/06/16/chaos/</id>
+    <published>2019-06-16T07:19:59.475Z</published>
+    <updated>2019-06-16T07:26:06.416Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2019/06/16/chaos/chaos1.png" alt=""><br><img src="/2019/06/16/chaos/chaos2.png" alt=""></p>
+<blockquote>
+<p>后续不断进行添加，完善。</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2019/06/16/chaos/chaos1.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;/2019/06/16/chaos/chaos2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;后续不断进行添加，完善。&lt;/p&gt;
+&lt;
+    
+    </summary>
+    
+    
+      <category term="方法记录" scheme="http://xuchao527.com/tags/%E6%96%B9%E6%B3%95%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
   
   <entry>
     <title>Rhino三维建模记录</title>
@@ -373,9 +400,9 @@ The key fingerprint is:
       <category term="日志" scheme="http://xuchao527.com/categories/%E6%97%A5%E5%BF%97/"/>
     
     
-      <category term="开始" scheme="http://xuchao527.com/tags/%E5%BC%80%E5%A7%8B/"/>
-    
       <category term="我" scheme="http://xuchao527.com/tags/%E6%88%91/"/>
+    
+      <category term="开始" scheme="http://xuchao527.com/tags/%E5%BC%80%E5%A7%8B/"/>
     
       <category term="日记" scheme="http://xuchao527.com/tags/%E6%97%A5%E8%AE%B0/"/>
     
