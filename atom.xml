@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xuchao527.com/"/>
-  <updated>2019-07-06T07:14:33.852Z</updated>
+  <updated>2019-07-06T07:22:43.557Z</updated>
   <id>http://xuchao527.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Chaos</title>
+    <link href="http://xuchao527.com/2019/07/06/chaos1/"/>
+    <id>http://xuchao527.com/2019/07/06/chaos1/</id>
+    <published>2019-07-06T07:21:04.193Z</published>
+    <updated>2019-07-06T07:22:43.557Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2019/07/06/chaos1/LE.JPG" alt=""><br><img src="/2019/07/06/chaos1/chaos.JPG" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2019/07/06/chaos1/LE.JPG&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;/2019/07/06/chaos1/chaos.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="方法记录" scheme="http://xuchao527.com/tags/%E6%96%B9%E6%B3%95%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
   
   <entry>
     <title>Chaos</title>
