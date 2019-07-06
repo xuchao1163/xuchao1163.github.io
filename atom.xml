@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xuchao527.com/"/>
-  <updated>2019-07-06T07:39:54.631Z</updated>
+  <updated>2019-07-06T07:53:16.663Z</updated>
   <id>http://xuchao527.com/</id>
   
   <author>
@@ -20,10 +20,9 @@
     <link href="http://xuchao527.com/2019/06/16/chaos/"/>
     <id>http://xuchao527.com/2019/06/16/chaos/</id>
     <published>2019-06-16T07:19:59.475Z</published>
-    <updated>2019-07-06T07:39:54.631Z</updated>
+    <updated>2019-07-06T07:53:16.663Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2019/06/16/chaos/LE.JPG" alt=""></p>
-<p><img src="/2019/06/16/chaos/chaos.JPG" alt=""></p>
+    <content type="html"><![CDATA[<p><img src="/2019/06/16/chaos/chaos.png" alt=""><br><img src="/2019/06/16/chaos/LE.png" alt=""></p>
 <blockquote>
 <p>nonlinear dynamics</p>
 </blockquote>
@@ -31,10 +30,10 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/2019/06/16/chaos/LE.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/2019/06/16/chaos/chaos.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/2019/06/16/chaos/chaos.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;/2019/06/16/chaos/LE.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;nonlinear dynamics&lt;
+&lt;p&gt;nonlinear dynamics&lt;/p&gt;
+
     
     </summary>
     
