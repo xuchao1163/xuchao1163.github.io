@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xuchao527.com/"/>
-  <updated>2019-07-06T07:30:48.138Z</updated>
+  <updated>2019-07-06T07:39:54.631Z</updated>
   <id>http://xuchao527.com/</id>
   
   <author>
@@ -17,46 +17,24 @@
   
   <entry>
     <title>Chaos</title>
-    <link href="http://xuchao527.com/2019/07/06/chaos1/"/>
-    <id>http://xuchao527.com/2019/07/06/chaos1/</id>
-    <published>2019-07-06T07:21:04.193Z</published>
-    <updated>2019-07-06T07:30:48.138Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/2019/07/06/chaos1/LE.JPG" alt=""></p>
-<p><img src="/2019/07/06/chaos1/chaos.JPG" alt=""></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/2019/07/06/chaos1/LE.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/2019/07/06/chaos1/chaos.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-      <category term="方法记录" scheme="http://xuchao527.com/tags/%E6%96%B9%E6%B3%95%E8%AE%B0%E5%BD%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Chaos</title>
     <link href="http://xuchao527.com/2019/06/16/chaos/"/>
     <id>http://xuchao527.com/2019/06/16/chaos/</id>
     <published>2019-06-16T07:19:59.475Z</published>
-    <updated>2019-07-06T07:30:43.295Z</updated>
+    <updated>2019-07-06T07:39:54.631Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/2019/06/16/chaos/LE.JPG" alt=""></p>
 <p><img src="/2019/06/16/chaos/chaos.JPG" alt=""></p>
-<p>&gt;</p>
+<blockquote>
+<p>nonlinear dynamics</p>
+</blockquote>
 ]]></content>
     
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;/2019/06/16/chaos/LE.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/2019/06/16/chaos/chaos.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&amp;gt;&lt;/p&gt;
-
+&lt;blockquote&gt;
+&lt;p&gt;nonlinear dynamics&lt;
     
     </summary>
     
