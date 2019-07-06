@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xuchao527.com/"/>
-  <updated>2019-06-16T07:26:06.416Z</updated>
+  <updated>2019-07-06T07:14:33.852Z</updated>
   <id>http://xuchao527.com/</id>
   
   <author>
@@ -20,20 +20,17 @@
     <link href="http://xuchao527.com/2019/06/16/chaos/"/>
     <id>http://xuchao527.com/2019/06/16/chaos/</id>
     <published>2019-06-16T07:19:59.475Z</published>
-    <updated>2019-06-16T07:26:06.416Z</updated>
+    <updated>2019-07-06T07:14:33.852Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2019/06/16/chaos/chaos1.png" alt=""><br><img src="/2019/06/16/chaos/chaos2.png" alt=""></p>
-<blockquote>
-<p>后续不断进行添加，完善。</p>
-</blockquote>
+    <content type="html"><![CDATA[<p><img src="/2019/06/16/chaos/LE.JPG" alt=""><br><img src="/2019/06/16/chaos/chaos.JPG" alt=""></p>
+<p>&gt;</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/2019/06/16/chaos/chaos1.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;/2019/06/16/chaos/chaos2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;后续不断进行添加，完善。&lt;/p&gt;
-&lt;
+      &lt;p&gt;&lt;img src=&quot;/2019/06/16/chaos/LE.JPG&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;/2019/06/16/chaos/chaos.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&amp;gt;&lt;/p&gt;
+
     
     </summary>
     
@@ -400,9 +397,9 @@ The key fingerprint is:
       <category term="日志" scheme="http://xuchao527.com/categories/%E6%97%A5%E5%BF%97/"/>
     
     
-      <category term="我" scheme="http://xuchao527.com/tags/%E6%88%91/"/>
-    
       <category term="开始" scheme="http://xuchao527.com/tags/%E5%BC%80%E5%A7%8B/"/>
+    
+      <category term="我" scheme="http://xuchao527.com/tags/%E6%88%91/"/>
     
       <category term="日记" scheme="http://xuchao527.com/tags/%E6%97%A5%E8%AE%B0/"/>
     
